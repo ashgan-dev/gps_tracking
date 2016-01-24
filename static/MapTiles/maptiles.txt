@@ -1,0 +1,5 @@
+tiles goes here, and this is **HUGE**
+at the end, you should have a filetree like MapTiles/x/y/z.png where
+x -> zoom level
+y -> tiles group
+z -> tile

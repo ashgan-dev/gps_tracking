@@ -1,0 +1,112 @@
+Grid	Lat/Lon hddd.ddddd°
+Datum	WGS 84
+
+Header	Name	Description	Type	Position	Altitude	Depth	Proximity	Temperature	Display Mode	Color	Symbol	Facility	City	State	Country	Date Modified	Link	Categories
+
+Waypoint	A1-RLT	04-NOV-14 08:31	User Waypoint	N14.92641 W16.76229	49 m				Symbol & Name	Black	Triangle, Red					11/4/2014 8:31:49 AM 		
+Waypoint	A10-DANGER	04-NOV-14 08:51	User Waypoint	N14.91562 W16.75037	49 m				Symbol & Name	Black	Triangle, Red					11/4/2014 8:51:46 AM 		
+Waypoint	A100	16-NOV-14 09:50	User Waypoint	N14.73293 W16.47860	30 m				Symbol & Name	Black	Waypoint					11/16/2014 9:50:19 AM 		
+Waypoint	A101	16-NOV-14 09:51	User Waypoint	N14.73476 W16.47357	29 m				Symbol & Name	Black	Waypoint					11/16/2014 9:51:58 AM 		
+Waypoint	A102-DZR	16-NOV-14 09:52	User Waypoint	N14.73165 W16.47188	28 m				Symbol & Name	Black	Waypoint					11/16/2014 9:52:53 AM 		
+Waypoint	A103-VL40	16-NOV-14 09:53	User Waypoint	N14.73123 W16.47140	30 m				Symbol & Name	Black	Flag, Red					11/16/2014 9:53:10 AM 		
+Waypoint	A104-FZR	16-NOV-14 09:54	User Waypoint	N14.72964 W16.46962	28 m				Symbol & Name	Black	Flag, Green					11/16/2014 9:54:17 AM 		
+Waypoint	A11-VL40	04-NOV-14 08:52	User Waypoint	N14.91445 W16.74981	49 m				Symbol & Name	Black	Flag, Red					11/4/2014 8:52:19 AM 		
+Waypoint	A12-FZR	04-NOV-14 08:53	User Waypoint	N14.91426 W16.74621	45 m				Symbol & Name	Black	Flag, Green					11/4/2014 8:53:24 AM 		
+Waypoint	A13-DZR	04-NOV-14 08:55	User Waypoint	N14.91352 W16.73727	41 m				Symbol & Name	Black	Waypoint					11/4/2014 8:55:22 AM 		
+Waypoint	A14-VL40	04-NOV-14 08:55	User Waypoint	N14.91360 W16.73690	40 m				Symbol & Name	Black	Flag, Red					11/4/2014 8:55:46 AM 		
+Waypoint	A15-FZR	04-NOV-14 08:57	User Waypoint	N14.91220 W16.73468	41 m				Symbol & Name	Black	Flag, Green					11/4/2014 8:57:24 AM 		
+Waypoint	A16	04-NOV-14 08:58	User Waypoint	N14.91138 W16.73209	40 m				Symbol & Name	Black	Waypoint					11/4/2014 8:58:06 AM 		
+Waypoint	A17-DANGER	04-NOV-14 08:59	User Waypoint	N14.90983 W16.72713	45 m				Symbol & Name	Black	Triangle, Red					11/4/2014 8:59:30 AM 		
+Waypoint	A18	04-NOV-14 09:03	User Waypoint	N14.90415 W16.70965	36 m				Symbol & Name	Black	Waypoint					11/4/2014 9:03:28 AM 		
+Waypoint	A19	04-NOV-14 09:09	User Waypoint	N14.88243 W16.69946	32 m				Symbol & Name	Black	Waypoint					11/4/2014 9:09:30 AM 		
+Waypoint	A2	04-NOV-14 08:33	User Waypoint	N14.92904 W16.75510	47 m				Symbol & Name	Black	Waypoint					11/4/2014 8:33:37 AM 		
+Waypoint	A20-DZR	04-NOV-14 09:10	User Waypoint	N14.87909 W16.69786	30 m				Symbol & Name	Black	Waypoint					11/4/2014 9:10:31 AM 		
+Waypoint	A21-VL40	04-NOV-14 09:11	User Waypoint	N14.87846 W16.69722	34 m				Symbol & Name	Black	Flag, Red					11/4/2014 9:11:33 AM 		
+Waypoint	A22-VL40	04-NOV-14 09:13	User Waypoint	N14.87743 W16.69480	34 m				Symbol & Name	Black	Flag, Red					11/4/2014 9:13:22 AM 		
+Waypoint	A23-FZR	04-NOV-14 09:13	User Waypoint	N14.87749 W16.69474	34 m				Symbol & Name	Black	Flag, Green					11/4/2014 9:13:30 AM 		
+Waypoint	A24	04-NOV-14 09:15	User Waypoint	N14.88003 W16.68911	32 m				Symbol & Name	Black	Waypoint					11/4/2014 9:15:35 AM 		
+Waypoint	A25-DANGER	04-NOV-14 09:16	User Waypoint	N14.88064 W16.68791	37 m				Symbol & Name	Black	Triangle, Red					11/4/2014 9:16:11 AM 		
+Waypoint	A26	04-NOV-14 09:17	User Waypoint	N14.88200 W16.68476	34 m				Symbol & Name	Black	Waypoint					11/4/2014 9:17:21 AM 		
+Waypoint	A27	04-NOV-14 09:18	User Waypoint	N14.88386 W16.68516	37 m				Symbol & Name	Black	Waypoint					11/4/2014 9:18:31 AM 		
+Waypoint	A28-DHP	04-NOV-14 09:20	User Waypoint	N14.89100 W16.68565	34 m				Symbol & Name	Black	Waypoint					11/4/2014 9:20:46 AM 		
+Waypoint	A29-FHP	04-NOV-14 09:23	User Waypoint	N14.88999 W16.68043	35 m				Symbol & Name	Black	Waypoint					11/4/2014 9:23:45 AM 		
+Waypoint	A3-DHP	04-NOV-14 08:34	User Waypoint	N14.92980 W16.75373	43 m				Symbol & Name	Black	Waypoint					11/4/2014 8:34:36 AM 		
+Waypoint	A30-RLT	04-NOV-14 09:24	User Waypoint	N14.88986 W16.67944	33 m				Symbol & Name	Black	Triangle, Red					11/4/2014 9:24:34 AM 		
+Waypoint	A31-DZR	04-NOV-14 09:25	User Waypoint	N14.88923 W16.67579	40 m				Symbol & Name	Black	Waypoint					11/4/2014 9:25:30 AM 		
+Waypoint	A32-VL40	04-NOV-14 09:25	User Waypoint	N14.88894 W16.67515	39 m				Symbol & Name	Black	Flag, Red					11/4/2014 9:25:49 AM 		
+Waypoint	A33-FZR	04-NOV-14 09:27	User Waypoint	N14.88617 W16.67110	40 m				Symbol & Name	Black	Flag, Green					11/4/2014 9:27:45 AM 		
+Waypoint	A34	04-NOV-14 09:33	User Waypoint	N14.87618 W16.67056	39 m				Symbol & Name	Black	Waypoint					11/4/2014 9:33:44 AM 		
+Waypoint	A35-HP	04-NOV-14 09:36	User Waypoint	N14.87817 W16.66561	35 m				Symbol & Name	Black	Waypoint					11/4/2014 9:36:11 AM 		
+Waypoint	A36-DZR	04-NOV-14 09:38	User Waypoint	N14.87649 W16.65964	34 m				Symbol & Name	Black	Waypoint					11/4/2014 9:38:40 AM 		
+Waypoint	A37-VL40	04-NOV-14 09:39	User Waypoint	N14.87632 W16.65940	33 m				Symbol & Name	Black	Flag, Red					11/4/2014 9:39:03 AM 		
+Waypoint	A38-VL40	04-NOV-14 09:39	User Waypoint	N14.87553 W16.65913	99 m				Symbol & Name	Black	Flag, Red					11/4/2014 9:39:35 AM 		
+Waypoint	A39-FZR	04-NOV-14 09:40	User Waypoint	N14.87546 W16.65813	49 m				Symbol & Name	Black	Flag, Green					11/4/2014 9:40:02 AM 		
+Waypoint	A4-FHP	04-NOV-14 08:35	User Waypoint	N14.92888 W16.75229	42 m				Symbol & Name	Black	Waypoint					11/4/2014 8:35:32 AM 		
+Waypoint	A40-DZR	04-NOV-14 09:41	User Waypoint	N14.87295 W16.65036	43 m				Symbol & Name	Black	Waypoint					11/4/2014 9:41:35 AM 		
+Waypoint	A41-VL40	04-NOV-14 09:41	User Waypoint	N14.87250 W16.64980	46 m				Symbol & Name	Black	Flag, Red					11/4/2014 9:41:57 AM 		
+Waypoint	A42-FZR	04-NOV-14 09:42	User Waypoint	N14.87187 W16.64881	42 m				Symbol & Name	Black	Flag, Green					11/4/2014 9:42:51 AM 		
+Waypoint	A43	04-NOV-14 09:46	User Waypoint	N14.85986 W16.63830	38 m				Symbol & Name	Black	Waypoint					11/4/2014 9:46:13 AM 		
+Waypoint	A44	04-NOV-14 09:46	User Waypoint	N14.86080 W16.63822	42 m				Symbol & Name	Black	Waypoint					11/4/2014 9:46:41 AM 		
+Waypoint	A45	04-NOV-14 09:49	User Waypoint	N14.87361 W16.63480	47 m				Symbol & Name	Black	Waypoint					11/4/2014 9:49:16 AM 		
+Waypoint	A46	04-NOV-14 09:49	User Waypoint	N14.87389 W16.63464	47 m				Symbol & Name	Black	Waypoint					11/4/2014 9:49:33 AM 		
+Waypoint	A47-RLT	04-NOV-14 09:54	User Waypoint	N14.87738 W16.61914	51 m				Symbol & Name	Black	Triangle, Red					11/4/2014 9:54:15 AM 		
+Waypoint	A48	04-NOV-14 09:55	User Waypoint	N14.87735 W16.61779	52 m				Symbol & Name	Black	Waypoint					11/4/2014 9:55:30 AM 		
+Waypoint	A49-DZR	04-NOV-14 09:56	User Waypoint	N14.87536 W16.61447	47 m				Symbol & Name	Black	Waypoint					11/4/2014 9:56:36 AM 		
+Waypoint	A5	04-NOV-14 08:39	User Waypoint	N14.92332 W16.75471	47 m				Symbol & Name	Black	Waypoint					11/4/2014 8:39:05 AM 		
+Waypoint	A50-VL40	04-NOV-14 09:56	User Waypoint	N14.87538 W16.61384	47 m				Symbol & Name	Black	Flag, Red					11/4/2014 9:56:59 AM 		
+Waypoint	A51-VL40	04-NOV-14 09:59	User Waypoint	N14.87600 W16.61051	49 m				Symbol & Name	Black	Flag, Red					11/4/2014 9:59:05 AM 		
+Waypoint	A52-FZR	16-NOV-14 08:26	User Waypoint	N14.87586 W16.60929	45 m				Symbol & Name	Black	Flag, Green					11/16/2014 8:26:50 AM 		
+Waypoint	A53	16-NOV-14 08:29	User Waypoint	N14.87316 W16.60256	46 m				Symbol & Name	Black	Waypoint					11/16/2014 8:29:42 AM 		
+Waypoint	A54-DANGER	16-NOV-14 08:33	User Waypoint	N14.86731 W16.58833	48 m				Symbol & Name	Black	Triangle, Red					11/16/2014 8:33:41 AM 		
+Waypoint	A55	16-NOV-14 08:35	User Waypoint	N14.86843 W16.57883	46 m				Symbol & Name	Black	Waypoint					11/16/2014 8:35:58 AM 		
+Waypoint	A56-DZR	16-NOV-14 08:36	User Waypoint	N14.86685 W16.57617	44 m				Symbol & Name	Black	Waypoint					11/16/2014 8:36:51 AM 		
+Waypoint	A57-VL40	16-NOV-14 08:37	User Waypoint	N14.86688 W16.57525	47 m				Symbol & Name	Black	Flag, Red					11/16/2014 8:37:13 AM 		
+Waypoint	A58-FZR	16-NOV-14 08:38	User Waypoint	N14.86685 W16.57410	47 m				Symbol & Name	Black	Flag, Green					11/16/2014 8:38:00 AM 		
+Waypoint	A59-DHP	16-NOV-14 08:39	User Waypoint	N14.86381 W16.57031	44 m				Symbol & Name	Black	Waypoint					11/16/2014 8:39:15 AM 		
+Waypoint	A6	04-NOV-14 08:46	User Waypoint	N14.92041 W16.75666	48 m				Symbol & Name	Black	Waypoint					11/4/2014 8:46:43 AM 		
+Waypoint	A60-FHP	16-NOV-14 08:40	User Waypoint	N14.86001 W16.56710	40 m				Symbol & Name	Black	Waypoint					11/16/2014 8:40:58 AM 		
+Waypoint	A61	16-NOV-14 08:42	User Waypoint	N14.85444 W16.56381	44 m				Symbol & Name	Black	Waypoint					11/16/2014 8:42:25 AM 		
+Waypoint	A62-RLT	16-NOV-14 08:44	User Waypoint	N14.85494 W16.55697	50 m				Symbol & Name	Black	Triangle, Red					11/16/2014 8:44:51 AM 		
+Waypoint	A63	16-NOV-14 08:45	User Waypoint	N14.85555 W16.55491	50 m				Symbol & Name	Black	Waypoint					11/16/2014 8:45:30 AM 		
+Waypoint	A64	16-NOV-14 08:46	User Waypoint	N14.85551 W16.55076	47 m				Symbol & Name	Black	Waypoint					11/16/2014 8:46:16 AM 		
+Waypoint	A65-RLT	16-NOV-14 08:47	User Waypoint	N14.85624 W16.54604	48 m				Symbol & Name	Black	Triangle, Red					11/16/2014 8:47:39 AM 		
+Waypoint	A66-DHP	16-NOV-14 08:49	User Waypoint	N14.85736 W16.53914	49 m				Symbol & Name	Black	Waypoint					11/16/2014 8:49:14 AM 		
+Waypoint	A67-FHP	16-NOV-14 08:50	User Waypoint	N14.85584 W16.53717	50 m				Symbol & Name	Black	Waypoint					11/16/2014 8:50:25 AM 		
+Waypoint	A68-RLT	16-NOV-14 08:51	User Waypoint	N14.84949 W16.53419	49 m				Symbol & Name	Black	Triangle, Red					11/16/2014 8:51:50 AM 		
+Waypoint	A69	16-NOV-14 08:56	User Waypoint	N14.84040 W16.53068	51 m				Symbol & Name	Black	Waypoint					11/16/2014 8:56:23 AM 		
+Waypoint	A7-RLT	04-NOV-14 08:48	User Waypoint	N14.91795 W16.75837	39 m				Symbol & Name	Black	Triangle, Red					11/4/2014 8:48:00 AM 		
+Waypoint	A70-DZR	16-NOV-14 08:59	User Waypoint	N14.83062 W16.52125	39 m				Symbol & Name	Black	Waypoint					11/16/2014 8:59:32 AM 		
+Waypoint	A71-VL40	16-NOV-14 09:00	User Waypoint	N14.82970 W16.52068	44 m				Symbol & Name	Black	Flag, Red					11/16/2014 9:00:21 AM 		
+Waypoint	A72-FZR	16-NOV-14 09:02	User Waypoint	N14.82599 W16.52017	42 m				Symbol & Name	Black	Flag, Green					11/16/2014 9:02:27 AM 		
+Waypoint	A73	16-NOV-14 09:03	User Waypoint	N14.82256 W16.52252	38 m				Symbol & Name	Black	Waypoint					11/16/2014 9:03:38 AM 		
+Waypoint	A74	16-NOV-14 09:05	User Waypoint	N14.82109 W16.51744	45 m				Symbol & Name	Black	Waypoint					11/16/2014 9:05:11 AM 		
+Waypoint	A75	16-NOV-14 09:10	User Waypoint	N14.81558 W16.51713	41 m				Symbol & Name	Black	Waypoint					11/16/2014 9:10:14 AM 		
+Waypoint	A76	16-NOV-14 09:12	User Waypoint	N14.81952 W16.51118	46 m				Symbol & Name	Black	Waypoint					11/16/2014 9:12:46 AM 		
+Waypoint	A77-DHP	16-NOV-14 09:15	User Waypoint	N14.81684 W16.50667	37 m				Symbol & Name	Black	Waypoint					11/16/2014 9:15:30 AM 		
+Waypoint	A78-DANGER	16-NOV-14 09:16	User Waypoint	N14.81698 W16.50430	37 m				Symbol & Name	Black	Triangle, Red					11/16/2014 9:16:42 AM 		
+Waypoint	A79-FHP	16-NOV-14 09:17	User Waypoint	N14.81452 W16.50335	34 m				Symbol & Name	Black	Waypoint					11/16/2014 9:17:49 AM 		
+Waypoint	A8-DZR	04-NOV-14 08:50	User Waypoint	N14.91624 W16.75111	39 m				Symbol & Name	Black	Waypoint					11/4/2014 8:50:58 AM 		
+Waypoint	A80-RLT	16-NOV-14 09:19	User Waypoint	N14.80905 W16.49771	35 m				Symbol & Name	Black	Triangle, Red					11/16/2014 9:19:12 AM 		
+Waypoint	A81-DANGER	16-NOV-14 09:19	User Waypoint	N14.80724 W16.49812	37 m				Symbol & Name	Black	Triangle, Red					11/16/2014 9:19:50 AM 		
+Waypoint	A82-DHP	16-NOV-14 09:24	User Waypoint	N14.79418 W16.49902	35 m				Symbol & Name	Black	Waypoint					11/16/2014 9:24:34 AM 		
+Waypoint	A83-FHP	16-NOV-14 09:26	User Waypoint	N14.79038 W16.49707	34 m				Symbol & Name	Black	Waypoint					11/16/2014 9:26:36 AM 		
+Waypoint	A84	16-NOV-14 09:27	User Waypoint	N14.79044 W16.49563	34 m				Symbol & Name	Black	Waypoint					11/16/2014 9:27:06 AM 		
+Waypoint	A85	16-NOV-14 09:27	User Waypoint	N14.78971 W16.49365	36 m				Symbol & Name	Black	Waypoint					11/16/2014 9:27:47 AM 		
+Waypoint	A86	16-NOV-14 09:28	User Waypoint	N14.78887 W16.49198	37 m				Symbol & Name	Black	Waypoint					11/16/2014 9:28:13 AM 		
+Waypoint	A87	16-NOV-14 09:29	User Waypoint	N14.78491 W16.48615	36 m				Symbol & Name	Black	Waypoint					11/16/2014 9:29:45 AM 		
+Waypoint	A88	16-NOV-14 09:30	User Waypoint	N14.78196 W16.48795	36 m				Symbol & Name	Black	Waypoint					11/16/2014 9:30:40 AM 		
+Waypoint	A89	16-NOV-14 09:31	User Waypoint	N14.77966 W16.48611	36 m				Symbol & Name	Black	Waypoint					11/16/2014 9:31:24 AM 		
+Waypoint	A9-RLT	04-NOV-14 08:51	User Waypoint	N14.91604 W16.75060	44 m				Symbol & Name	Black	Triangle, Red					11/4/2014 8:51:23 AM 		
+Waypoint	A90	16-NOV-14 09:32	User Waypoint	N14.77981 W16.48184	36 m				Symbol & Name	Black	Waypoint					11/16/2014 9:32:28 AM 		
+Waypoint	A91-DHP	16-NOV-14 09:34	User Waypoint	N14.77939 W16.47917	31 m				Symbol & Name	Black	Waypoint					11/16/2014 9:34:13 AM 		
+Waypoint	A92-FHP	16-NOV-14 09:37	User Waypoint	N14.77378 W16.47665	33 m				Symbol & Name	Black	Waypoint					11/16/2014 9:37:10 AM 		
+Waypoint	A93	16-NOV-14 09:37	User Waypoint	N14.77380 W16.47633	34 m				Symbol & Name	Black	Waypoint					11/16/2014 9:37:22 AM 		
+Waypoint	A94	16-NOV-14 09:39	User Waypoint	N14.77158 W16.46858	29 m				Symbol & Name	Black	Waypoint					11/16/2014 9:39:10 AM 		
+Waypoint	A95-DHP	16-NOV-14 09:41	User Waypoint	N14.76387 W16.46980	32 m				Symbol & Name	Black	Waypoint					11/16/2014 9:41:12 AM 		
+Waypoint	A96-FHP	16-NOV-14 09:43	User Waypoint	N14.76128 W16.47198	34 m				Symbol & Name	Black	Waypoint					11/16/2014 9:43:06 AM 		
+Waypoint	A97	16-NOV-14 09:43	User Waypoint	N14.75889 W16.47101	31 m				Symbol & Name	Black	Waypoint					11/16/2014 9:43:42 AM 		
+Waypoint	A98	16-NOV-14 09:45	User Waypoint	N14.74969 W16.47574	29 m				Symbol & Name	Black	Waypoint					11/16/2014 9:45:34 AM 		
+Waypoint	A99	16-NOV-14 09:48	User Waypoint	N14.74345 W16.47921	29 m				Symbol & Name	Black	Waypoint					11/16/2014 9:48:16 AM 		
+Waypoint	ASS1	16-NOV-14 09:56	User Waypoint	N14.72534 W16.46205	29 m				Symbol & Name	Black	Pin, Red					11/16/2014 9:56:12 AM 		
+Waypoint	DSS1	04-NOV-14 08:28	User Waypoint	N14.92546 W16.77694	41 m				Symbol & Name	Black	Pin, Green					11/4/2014 8:28:27 AM 		
+
